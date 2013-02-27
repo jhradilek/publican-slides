@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="992.12598"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="create-files.svg">
+  <title
+     id="title3093">Introduction to Publican</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="378.04881"
+     inkscape:cy="386.38701"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Introduction to Publican</dc:title>
+        <dc:date>2013-02-23</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jaromir Hradilek</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jaromir Hradilek</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>en-US</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Publican</rdf:li>
+            <rdf:li>DocBook</rdf:li>
+            <rdf:li>Documentation</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>Presentation</dc:coverage>
+        <dc:description>Publican is an open-source publishing system for documentation authored in DocBook XML.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26641)">
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3c3c3c;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       x="96.28125"
+       y="456.9859"
+       id="text2990"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2992"
+         x="96.28125"
+         y="456.9859">Creating a New Document</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3c3c3c;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="99.609375"
+       y="542.75153"
+       id="text3762"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3764"
+         x="99.609375"
+         y="542.75153">The <tspan
+   style="font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan4655">publican create</tspan> command creates:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3c3c3c;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="127.07031"
+       y="622.75153"
+       id="text3762-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3764-0"
+         x="127.07031"
+         y="622.75153">• <tspan
+   style="fill:#3c3c3c;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan6406">publican.cfg</tspan> — configuration file</tspan><tspan
+         sodipodi:role="line"
+         x="127.07031"
+         y="672.75153"
+         id="tspan5609">• <tspan
+   style="fill:#a70000;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan6410">Book_Name</tspan><tspan
+   style="font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan7984">.ent</tspan> — entity definitions</tspan><tspan
+         sodipodi:role="line"
+         x="127.07031"
+         y="722.75153"
+         id="tspan4681">• <tspan
+   style="fill:#a70000;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan6414">Book_Name</tspan><tspan
+   style="font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan7990">.xml</tspan> — main file</tspan><tspan
+         sodipodi:role="line"
+         x="127.07031"
+         y="772.75153"
+         id="tspan4683">• <tspan
+   style="fill:#3c3c3c;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan6418">Book_Info.xml</tspan> — document metadata</tspan><tspan
+         sodipodi:role="line"
+         x="127.07031"
+         y="822.75153"
+         id="tspan4687">• <tspan
+   style="fill:#3c3c3c;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan6422">Author_Group.xml</tspan> — list of authors</tspan><tspan
+         sodipodi:role="line"
+         x="127.07031"
+         y="872.75153"
+         id="tspan4689">• <tspan
+   style="fill:#3c3c3c;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan6426">Revision_History.xml</tspan> — revision history</tspan><tspan
+         sodipodi:role="line"
+         x="127.07031"
+         y="922.75153"
+         id="tspan4691">• <tspan
+   style="fill:#3c3c3c;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan6430">Preface.xml</tspan> — auto-generated preface</tspan><tspan
+         sodipodi:role="line"
+         x="127.07031"
+         y="972.75153"
+         id="tspan5601">• <tspan
+   style="fill:#3c3c3c;fill-opacity:1;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
+   id="tspan6434">Chapter.xml</tspan> — empty chapter</tspan><tspan
+         sodipodi:role="line"
+         x="127.07031"
+         y="1022.7515"
+         id="tspan4685" /></text>
+  </g>
+</svg>
